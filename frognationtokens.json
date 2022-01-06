@@ -1,0 +1,266 @@
+[
+    {
+      "name": "ICE Token",
+      "symbol": "ICE",
+      "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/popsiclefinance_32.png"
+    },
+    {
+        "name": "ICE Token",
+        "symbol": "ICE",
+        "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/popsiclefinance_32.png"
+    },
+    {
+        "name": "ICE Token",
+        "symbol": "ICE",
+        "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/popsiclefinance_32.png"
+    },
+    {
+        "name": "ICE Token",
+        "symbol": "ICE",
+        "address": "0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/popsiclefinance_32.png"
+    },
+    {
+        "name": "ICE Token",
+        "symbol": "ICE",
+        "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/popsiclefinance_32.png"
+    },
+    {
+        "name": "ICE Token",
+        "symbol": "ICE",
+        "address": "0xcb58418aa51ba525aef0fe474109c0354d844b7c",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/popsiclefinance_32.png"
+    },
+    {
+        "name": "Staked ICE Token",
+        "symbol": "nICE",
+        "address": "0xfF3Ac80c1caA08Cbd43a7e90d20c398d54C7342f",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/stakedicetokens_32.png"
+    },
+    {
+        "name": "Staked ICE Token",
+        "symbol": "nICE",
+        "address": "0x8506560320826e459f356cb56ccf721da8875414",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/stakedicetokens_32.png"
+    },
+    {
+        "name": "Staked ICE Token",
+        "symbol": "nICE",
+        "address": "0x7f620d7d0b3479b1655cefb1b0bc67fb0ef4e443",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/stakedicetokens_32.png"
+    },
+    {
+        "name": "Staked ICE Token",
+        "symbol": "nICE",
+        "address": "0xb808d767ddf0f61ca62331c1bbbebe0530b41079",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/stakedicetokens_32.png"
+    },
+    {
+        "name": "Staked ICE Token",
+        "symbol": "nICE",
+        "address": "0x546d10c1378febef063b72ae4865496ad801c386",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/stakedicetokens_32.png"
+    },
+    {
+        "name": "Staked ICE Token",
+        "symbol": "nICE",
+        "address": "0x6c2c113c8ca73db67224ef4d8c8dfcec61e52a9c",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/stakedicetokens_32.png"
+    },
+    {
+        "name": "SPELL Token",
+        "symbol": "SPELL",
+        "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/spelltoken_32.png"
+    },
+    {
+        "name": "SPELL Token",
+        "symbol": "SPELL",
+        "address": "0x9fe28d11ce29e340b7124c493f59607cbab9ce48",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/spelltoken_32.png"
+    },
+    {
+        "name": "SPELL Token",
+        "symbol": "SPELL",
+        "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/spelltoken_32.png"
+    },
+    {
+        "name": "SPELL Token",
+        "symbol": "SPELL",
+        "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/spelltoken_32.png"
+    },
+    {
+        "name": "SPELL Token",
+        "symbol": "SPELL",
+        "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/spelltoken_32.png"
+    },
+    {
+        "name": "Staked SPELL Token",
+        "symbol": "sSPELL",
+        "address": "0x26FA3fFFB6EfE8c1E69103aCb4044C26B9A106a9",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/sspelltoken_32.png"
+    },
+    {
+        "name": "Staked SPELL Token",
+        "symbol": "sSPELL",
+        "address": "0x66eff5221ca926636224650fd3b9c497ff828f7d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/sspelltoken_32.png"
+    },
+    {
+        "name": "Staked SPELL Token",
+        "symbol": "sSPELL",
+        "address": "0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/sspelltoken_32.png"
+    },
+    {
+        "name": "Staked SPELL Token",
+        "symbol": "sSPELL",
+        "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/sspelltoken_32.png"
+    },
+    {
+        "name": "Staked SPELL Token",
+        "symbol": "sSPELL",
+        "address": "0xf7428ffcb2581a2804998efbb036a43255c8a8d3",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/sspelltoken_32.png"
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/mimstablecoin_32.png"
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/mimstablecoin_32.png"
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/mimstablecoin_32.png"
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0x49a0400587a7f65072c87c4910449fdcc5c47242",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/mimstablecoin_32.png"
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/mimstablecoin_32.png"
+    },
+    {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/mimstablecoin_32.png"
+    },
+    {
+        "name": "TIME Token",
+        "symbol": "TIME",
+        "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+        "chainId": 43114,
+        "decimals": 9,
+        "logoURI": "https://snowtrace.io/token/images/wonderland-time_32.png"
+    },
+    {
+        "name": "MEMOries Token",
+        "symbol": "MEMO",
+        "address": "0x136acd46c134e8269052c62a67042d6bdedde3c9",
+        "chainId": 43114,
+        "decimals": 9,
+        "logoURI": "https://snowtrace.io/token/images/memoriestoken_32.png"
+    },
+    {
+        "name": "Wrapped MEMO Token",
+        "symbol": "wMEMO",
+        "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://snowtrace.io/token/images/memoriestoken_32.png"
+    },
+    {
+        "name": "Wrapped MEMO Token",
+        "symbol": "wMEMO",
+        "address": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://snowtrace.io/token/images/memoriestoken_32.png"
+    },
+    {
+        "name": "Wrapped MEMO Token",
+        "symbol": "wMEMO",
+        "address": "0x3b79a28264fC52c7b4CEA90558AA0B162f7Faf57",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://snowtrace.io/token/images/memoriestoken_32.png"
+    }
+]
