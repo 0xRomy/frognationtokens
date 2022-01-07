@@ -263,4 +263,12 @@
         "decimals": 18,
         "logoURI": "https://snowtrace.io/token/images/memoriestoken_32.png"
     }
+    {
+        "name": "Wrapped MEMO Token",
+        "symbol": "wMEMO",
+        "address": "0xECf2ADafF1De8A512f6e8bfe67a2C836EDb25Da3",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://snowtrace.io/token/images/memoriestoken_32.png"
+    }
 ]
